@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/adoer/vue-demo/issues"
   },
-  "homepage": "https://github.com/adoer/vue-demo#readme"
+  "homepage": "https://github.com/adoer/vue-demo#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
 }
